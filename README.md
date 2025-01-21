@@ -57,6 +57,7 @@ This iOS application provides a platform to track the top 100 cryptocurrencies u
 - **JSON Parsing:** Codable
 - **Version Control:** Git
 - **Development Environment:** Xcode 14+
+- **Minimum iOS Version:** iOS 17.0
 
 ---
 
